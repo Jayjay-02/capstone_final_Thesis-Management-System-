@@ -1,0 +1,14 @@
+node_modules/
+.env
+*.log
+dist/
+build/
+*.tmp
+*.temp
+coverage/
+.nyc_output/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/backend/db.sqlite3

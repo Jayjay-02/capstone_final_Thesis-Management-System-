@@ -7,3 +7,6 @@ google-api-python-client>=2.70
 google-auth>=2.15
 google-auth-oauthlib>=0.8
 google-auth-httplib2>=0.1
+psycopg2-binary==2.9.9
+dj-database-url==2.5.0
+gunicorn==21.2.0

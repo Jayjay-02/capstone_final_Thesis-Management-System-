@@ -12,3 +12,5 @@ coverage/
 .env.test.local
 .env.production.local
 backend/backend/db.sqlite3
+__pycache__/
+backend/google_credentials.json
